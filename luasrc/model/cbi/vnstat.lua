@@ -4,7 +4,7 @@
 local utl = require "luci.util"
 local sys = require "luci.sys"
 local fs  = require "nixio.fs"
-local nw  = require "luci.model.network"
+local nw  = require "luci.model.status"
 
 local dbdir, line
 
