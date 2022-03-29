@@ -24,7 +24,7 @@ msgid "Hourly traffic"
 msgstr "流量时报"
 
 msgid "Monitor selected interfaces"
-msgstr "监控选择的接口"
+msgstr "选择监控的接口"
 
 msgid "Monthly traffic"
 msgstr "流量月报"
