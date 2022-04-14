@@ -13,7 +13,7 @@ for line in io.lines("/etc/vnstat.conf") do
 	if dbdir then break end
 end
 
-dbdir = dbdir or "/tmp/config/vnstat" 
+dbdir = dbdir or "/etc/config/vnstat" 
 --"/var/lib/vnstat"
 
 
